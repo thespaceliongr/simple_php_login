@@ -1,0 +1,217 @@
+ body,html {
+	background: darkblue ;
+  
+}
+A:link {
+text-decoration: underline; 
+color: yellow;
+}
+A:visited {
+text-decoration: underline; 
+color: LawnGreen;
+}
+A:active {
+text-decoration: underline; 
+color: yellow;
+}
+A:hover {
+text-decoration: underline; 
+color: DarkRed ;
+}
+
+#rolinks{
+font-style: italic;
+background-color: #006666;
+}
+
+
+#links {
+  color: #FFFF00;
+  position: absolute; top: 40px; left: 50px;
+  width: 15%; height: 180px;
+background-color: #0000FF;
+  }
+
+#welcome {
+
+  color: #FFFF00;
+  position: absolute; top: 40px; left: 250px;
+  width: 50%; height: 150px;
+  background-color: #0000FF;
+ text-align: center
+  }
+
+#rowelcome{
+font-style: italic;
+background-color: #006666;
+}
+
+
+#register {
+
+  color: #FFFF00;
+  position: absolute; top: 40px; left: 250px;
+  width: 50%; height: 150px;
+  background-color: #0000FF;
+ text-align: left
+  }
+
+#roregister{
+font-style: italic;
+background-color: #006666;
+}
+
+#myform{
+
+color: #FFFFFF;
+background-color: #0000FF;
+
+}
+
+#change {
+
+  color: #FFFF00;
+  position: absolute; top: 40px; left: 250px;
+  width: 50%; height: 150px;
+  background-color: #0000FF;
+ text-align: left
+  }
+
+#rochange {
+font-style: italic;
+background-color: #006666;
+}
+#roshow{
+font-style: italic;
+background-color: #006666;
+}
+#update_pw {
+font-family:arial;
+font-size:11px;
+margin:5px;
+border:1px solid #3D5686;
+width:450px;
+}
+#update_pw h3 {
+font-size:1.5em;
+background-color:#3D5686;
+color:#FFFFFF;
+font-weight:bold;
+padding:4px;
+margin:0px;
+}
+#update_pw p {
+text-align:center;
+padding:8px;
+}
+#update_pw em {
+color:#F00;
+}
+#update_pw div.r {
+clear: both;
+padding-top: 5px;
+}
+#update_pw label {
+float: left;
+width: 100px;
+text-align: right;
+}
+#update_pw span.f {
+float: right;
+width: 335px;
+text-align: left;
+}
+#update_pw div.sp {
+clear: both;
+}
+#update_pw .req {
+font-weight:bold;
+}
+#update_pw input, #update_pw textarea {
+background: #FFF;
+border:1px solid #000;
+padding:2px;
+}
+#update_pw input:focus, #update_pw textarea:focus {
+background: #f2f2f2;
+border:1px solid #3D5686;
+}
+#fieldset {
+
+  color: #FFFF00;
+  position: absolute; top: 30px; left: 250px;
+  width: 50%; height: 300px;
+  background-color: #006666;
+ text-align: left
+  }
+
+#page{
+font-style: italic;
+color: white;
+background-color: #0000FF;
+}
+
+#newpass {
+
+  color: #FFFF00;
+  position: absolute; top: 40px; left: 250px;
+  width: 50%; height: 150px;
+  background-color: #0000FF;
+ text-align: left
+  }
+
+#ronewpass{
+font-style: italic;
+background-color: #006666;
+}
+#firstpage {
+
+    color: #FFFF00;
+  position: absolute; top: 40px; left: 250px;
+  width: 50%; height: 150px;
+  background-color: #0000FF;
+ text-align: left
+  }
+#rorfirstpage {
+
+font-style: italic;
+background-color: #006666;
+}
+#login {
+
+  color: #FFFF00;
+  position: absolute; top: 40px; left: 250px;
+  width: 50%; height: 150px;
+  background-color: #0000FF;
+ text-align: left
+  }
+
+#rologin{
+font-style: italic;
+background-color: #006666;
+}
+#titleprofile {
+position: absolute; top: 20px; left: 255px;
+ color: #FFFF00;
+  width: 70%; height: 20px;
+font-style: italic;
+background-color: #006666;
+}
+#profile {
+
+    color: #FFFF00;
+  position: absolute; top: 20px; left: 2px;
+  width: 100%; height: 150px;
+  background-color: #0000FF;
+ text-align: center
+  }
+#rorprofile {
+font-style: italic;
+background-color: #006666;
+}
+#back {
+  position: absolute; top: 177px; left: 2px;
+  width: 100%; height: 7px;
+ color: #FFFF00;
+background-color: #006666;
+}
